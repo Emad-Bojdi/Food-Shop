@@ -1,4 +1,4 @@
-<h2>Food-Shop</h2> <br/>
+<h2>Food-Shop</h2>
 .<br/>
 This site was developed by Next.js , Javascript , pureCSS . <br/>
 .<br/>
